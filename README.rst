@@ -15,13 +15,11 @@ Scipion's documentation is built using `Sphinx <http://www.sphinx-doc.org>`_ and
 of our docs on the `docs GitHub repository <https://github.com/scipion-em/docs>`_ . At the time of this writing we have
 only one version, the branch ``release-3.0.0``, but we'll have more versions in the future.
 The branch ``gh-pages`` contains the **built**
-documentation for all versions (i.e. HTML files). When new commits are pushed to this branch,
- will update and reflect them automatically.
+documentation for all versions (i.e. HTML files). When new commits are pushed to this branch, will update and reflect them automatically.
 
 On a high level, the docs have two main parts:
 
-* The API docs, which are automatically generated from the code's docstrings using `sphinx-apidoc <https://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html>`_.
-  To build these, we need a working :doc:`installation of Scipion </docs/scipion-modes/install-from-sources>` in our machine.
+* The API docs, which are automatically generated from the code's docstrings using `sphinx-apidoc <https://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html>`_. To build these, we need a working :doc: `installation of Scipion </docs/scipion-modes/install-from-sources>` in our machine.
 * The general docs, which are manually generated content (e.g. guides, tutorials, etc).
 
 
@@ -121,4 +119,4 @@ It is better to use:
 
 .. code-block::
 
-    `my-new.pdf <../../_static/pdfs/my-new.pdf>`__
+    `my-new.pdf <../../_static/pdfs/my-new.pdf>`
