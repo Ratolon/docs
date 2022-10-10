@@ -94,7 +94,7 @@ Resources and tips
 
 .. code-block::
 
-    ` link text <page_identifier>`_
+    `link text <page_identifier>`_
 
 It is better to use:
 
