@@ -74,11 +74,9 @@ Or alternatively, run this in the command line inside ``scipion-docs`` repo dir:
 Resources and tips
 ------------------
 
-1. You can reference python objects!! E.g. :class:`The plugin class<pyworkflow.plugin.Plugin>`. For more info check
-   the sphinx guide on  `how to reference python objects
-   <http://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-python-domain>`_
+1. You can reference python objects!! E.g. :class:`The plugin class<pyworkflow.plugin.Plugin>`. For more info check the sphinx guide on  `how to reference python objects <http://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#the-python-domain>`_
 
-2. You can install and use pandoc<https://pandoc.org/> to convert from Markdown (.md) to .rst
+2. You can install and use `pandoc <https://pandoc.org/>`_ to convert from Markdown (.md) to .rst
 
 3. The custom css is at _static/custom.css. To connect the css to a build documentation do:
 
